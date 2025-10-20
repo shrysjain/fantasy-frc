@@ -12,5 +12,7 @@ docker compose up
 ```
 
 Frontend (Next.js): `localhost:8000`
+
 Backend (Django): `localhost:3000`
+
 Database (PostgreSQL): `postgres:5432`
